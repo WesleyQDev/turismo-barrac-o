@@ -34,17 +34,17 @@ const Sidebar = ({
         <ul className="sidebar-nav text-center leading-relaxed text-xl">
           <li>
             <Link href="/guia" onClick={toggle}>
-              <p>About Us</p>
+              <p>Turismo Barracão</p>
             </Link>
           </li>
           <li>
             <Link href="/sobre" onClick={toggle}>
-              <p>Services</p>
+              <p>Sobre</p>
             </Link>
           </li>
           <li>
             <Link href="/contato" onClick={toggle}>
-              <p>Contacts</p>
+              <p>Contato</p>
             </Link>
           </li>
         </ul>
