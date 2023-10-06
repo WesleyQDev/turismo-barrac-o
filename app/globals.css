@@ -4,7 +4,7 @@
 
 .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://barracao.pr.gov.br/common/uploads/noticias/8963615747a2ad0005684687017fdbb3.jpg");
+  url("https://barracao.pr.gov.br/common/uploads/noticias/8963615747a2ad0005684687017fdbb3.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
