@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://barracao.pr.gov.br/common/uploads/noticias/8963615747a2ad0005684687017fdbb3.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 95vw;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.banner-titulo {
+  color: white;
+  font-size: 30px;
+}
