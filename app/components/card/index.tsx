@@ -4,7 +4,6 @@ import Maps from "../maps";
 interface card {
   src: string;
   img: string;
-  alt: string;
   nome: string;
   desc: string;
   maps: string;
@@ -20,7 +19,7 @@ export default function Card(props: card) {
         <Image
           className="object-cover w-full rounded-t-lg h-96 md:h-100 md:w-45 md:rounded-none md:rounded-l-lg"
           src={props.img}
-          alt={props.alt}
+          alt={props.nome}
           width={0}
           height={0}
           sizes="100%"
