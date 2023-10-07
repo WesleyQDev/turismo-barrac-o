@@ -6,12 +6,12 @@ export default function Card(props) {
     <>
       <Link
         style={{ marginTop: 10, marginBottom: 10 }}
-        href="#"
+        href={props.src}
         className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
       >
         <Image
           className="object-cover w-full rounded-t-lg h-96 md:h-100 md:w-45 md:rounded-none md:rounded-l-lg"
-          src={props.src}
+          src={props.img}
           alt={props.alt}
           width={0}
           height={0}
