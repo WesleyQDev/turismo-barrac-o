@@ -2,7 +2,11 @@
 const nextConfig = {};
 module.exports = {
   images: {
-    domains: ["upload.wikimedia.org", "barracao.pr.gov.br"],
+    domains: [
+      "upload.wikimedia.org",
+      "barracao.pr.gov.br",
+      "lh3.googleusercontent.com",
+    ],
   },
   nextConfig,
 };

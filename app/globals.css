@@ -29,8 +29,13 @@
   padding-right: 5vw;
 }
 .container h2 {
-  font-size: 22px;
+  font-size: 25px;
   font-weight: bold;
+}
+.container h3 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 20px;
 }
 .maps {
   width: 100%;
