@@ -13,7 +13,7 @@ export default function Card(props: card) {
   return (
     <>
       <Link
-        style={{ marginTop: 10, marginBottom: 10 }}
+        style={{ marginTop: 20, marginBottom: 20 }}
         href={props.src}
         className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
       >

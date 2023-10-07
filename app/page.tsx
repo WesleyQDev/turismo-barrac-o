@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Banner />
-      <div className="container">
+      <div className="conteudo">
         <h2>Guia turístico Barracão</h2>
         <p>
           Se você está visitando Barracão uma das primeiras coisas a se fazer é
@@ -18,9 +18,7 @@ export default function Home() {
         <h3>1 – Pousadas Shalom</h3>
         <p>
           O hotel Pousada Shalom foi construida em 2020 e vem se fixando no ramo
-          de hospedarias desde então. Caso esteja interessado e queira ver mais
-          fotos, preços e outras informações pode conferir clicando em “Mais
-          sobre o hotel“.
+          de hospedarias desde então.
         </p>
         <Card
           alt="Pousadas shalom"

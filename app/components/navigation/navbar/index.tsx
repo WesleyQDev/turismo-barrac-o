@@ -5,10 +5,15 @@ import Logo from "./Logo";
 const Navbar = ({ toggle }: { toggle: () => void }) => {
   return (
     <>
-      <div className="w-full h-20 bg-gray-800 sticky top-0">
+      <div className="w-full h-16 bg-gray-800 sticky top-0">
         <div className="container mx-auto px-4 h-full">
           <div className="flex  items-center h-full">
             <Logo />
+            <Link href="/">
+              <p className=" md:flex gap-x-6 text-white bold text-xl ">
+                Suporte para turistas | Barracão PR
+              </p>
+            </Link>
             <button
               type="button"
               className="inline-flex items-center md:hidden"
@@ -26,23 +31,6 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                 />
               </svg>
             </button>
-            <ul className="hidden md:flex gap-x-6 text-white ">
-              <li>
-                <Link href="/">
-                  <p>Turismo barracão</p>
-                </Link>
-              </li>
-              <li>
-                <Link href="/sobre">
-                  <p>Sobre</p>
-                </Link>
-              </li>
-              <li>
-                <Link href="/contato">
-                  <p>Contato</p>
-                </Link>
-              </li>
-            </ul>
           </div>
         </div>
       </div>

@@ -23,19 +23,19 @@
   font-size: 30px;
 }
 
-.container {
-  padding-top: 10px;
-  padding-left: 5vw;
-  padding-right: 5vw;
+.conteudo {
+  padding-top: 30px;
+  padding-left: 10vw;
+  padding-right: 10vw;
 }
-.container h2 {
+.conteudo h2 {
   font-size: 25px;
   font-weight: bold;
 }
-.container h3 {
+.conteudo h3 {
   font-size: 20px;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 50px;
 }
 .maps {
   width: 100%;
