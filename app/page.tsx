@@ -46,7 +46,7 @@ export default function Home() {
         <p>
           Bom agora que você já escolheu a sua hospedaria, é bom saber em que
           lugar comprar os seus produtos, neste caso escolhemos o “Liberty Duty
-          Free” e o “MERCADO TRI ZEROHORA”
+          Free” e o “MERCADO TRI ZEROHORA”.
         </p>
         <h3>1 – Liberty Duty Free</h3>
         <p>
@@ -63,6 +63,21 @@ export default function Home() {
           nome="Liberty Duty Free"
           desc="R. São Paulo, 199 - Centro, Barracão - PR"
           maps="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3578.29793018361!2d-53.63774232548743!3d-26.251992365920355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b0983358eb5%3A0x98d6e1d4be5a525!2sLiberty%20Duty%20Free!5e0!3m2!1spt-BR!2sbr!4v1696710114490!5m2!1spt-BR!2sbr"
+        />
+        <h3>2- MERCADO TRI ZEROHORA</h3>
+        <p>
+          O mercado começou no começo de 2023, com atendimento até meia noite e
+          localiza-se no centro, perto da Prefeitura, sem duvida uma excelente
+          opção caso esteja buscando um mercado que esteja aberto grande parte
+          do tempo.
+        </p>
+        <Card
+          alt="MERCADO TRI ZEROHORA"
+          src="/mercado-tri-zerohora"
+          img="https://lh3.googleusercontent.com/fife/AK0iWDxmpdV7UVctHGLuNqxOuYNx6od-3xW2yD1FcNkIRKMB6NNPyTvLvwhSX2nGK659kofTXIa5dVgzCdyv80kg1A708tu85bbVP07qivbmy-2jhqbLBBy1ALQfAqYukHwVp6RFAV1JWApDWZnFO_1nT77WNyCD4k4RVzlixR5WgBAPK1fD_3CcQcyjjtd9uZsU2s1LWwtkWOKA2OuTFtzopVZcqWeKfjNSlRehyUSw4JuUhzpCWt9U26LoCfCgMwKFgMhaqmufyg4S2hQmfF1KhrizgJV-m-xbWeCz861J_lC2TpglswdHiTksDtdwVTULsVSAJBhKnUFQZr-4VLxjITBD--7-JHjbQxVgjAiNTt1skR2xCojff2K1_lrBPBSB2wzpNgFIav3dYlQrJO8vFd1t3NRm5rcsjeZ4Pf7KvFjxkXvU3zO6duJvIXORzPol4I4zAbz0rEQMLWWu2ruarhuL2F7Azo_ZIvOENmuBH7u9H5qho6P4KJyyKW_KXY32f4hDZ_ovyfJ8peV97ekteVtgvvou9TsaQt1V4oNZywe2sSXoIhb8A7oZfGQM5qV8xb2K9i5jB9EnnEFLONL8p1r5cvq0u45G-rcZjmpAYP2lYXzw8YmC-SiIN5DHPdP7TXmHwg1_QMdYxn39YLR9f-fg9N69CTcT2Fg49Umn91TFvJMeiyO2WUd_3RZkx_MP9CWQDGsG9axBCeoVr6TjAyFriE4ykVPkI-krd3suOww8UYbHkf9SsrW2ZL1SElcQAT9CPcxs_Z15eBXgBIMcsdEFTM347q49J4bI1q6KZQ2rGRiAsFJ5VV1k8d-I0z0_-M4Qctv-yHMbhhloWnlnsi6VQcAVrGsucCkAp0qlbsuEg3WgfL22eFrp27tcNqSs332oKXJKdFRrnXnoM9MBHvPPYl5Gx94Ru5JgjQ6tU4kyESWXWyBj-3-Ce7oQOAuntySCR5r6J2SKRYn5dK1lfqppNaBOynNl4-EO431rmRzg5Gd_wgKl2FNa1LVEMvjz36EUVgq-Q4cucCrQZ_N_gne-WGdo5rfqvvjDDsjviBot_VwRNktS81XcA7i47nkmzCict-UNUSoRpXCv5TItD-mU-dCMijzsA2N11iNjugZaTOX89vQzpw_b-4wLKfYajQpMVtw7VeSNumgDcjJv0RUuInaoR1HUCeKiYTnOr8nU8StPRmUKN0rlSx-WNYhb3ogPS1bpVolIeXAeiaZRT3TBc2NO4JRXfr99OEM4oSds6tKMAsGhLVmDLMERaVDuRLurWP6gbKmXA7UDA1op9nIQ4ZvV3kDkcvOa3SH0TX7BPfeIGgxqxGzYHuYyOF00DAIk8fI_P74ydBL0baQG9Q4hm5l6GXzsr1onMNHaCF56SVN2J_23XT7KXh-ngeQg5VogEQ5z91x49LntwsEyBVXxuPMN4GR7QWi7KQdjB_Erw4CC_RU7pqUsCRw68biFtXgh4fNSrTDVKOmenTemQq8SCGlIns4jV1wPTpzQTdIWJ_tBhcIJ0aOVvFWmAifZIw4bJPr-3c0eEsfo1gnk=w1366-h619"
+          nome="MERCADO TRI ZEROHORA"
+          desc="R. São Paulo, 148 - Centro, Barracão, PR"
+          maps="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114505.72928194582!2d-53.635909!3d-26.251794!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09a3163395261%3A0x59464fdb29b6eb90!2sR.%20S%C3%A3o%20Paulo%2C%20148%20-%20Barrac%C3%A3o%2C%20PR%2C%2085700-000%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1696710725361!5m2!1spt-BR!2su"
         />
       </div>
     </>
