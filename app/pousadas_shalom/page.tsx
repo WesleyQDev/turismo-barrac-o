@@ -25,14 +25,14 @@ export default function PousadasShalom() {
   return (
     <>
       <div className="conteudo">
-        <Swiper slidesPerView={1}>
+        <h2>Pousaadas Shalom</h2>
+        <Swiper slidesPerView={1} pagination={{ clickable: true }} navigation>
           {data.map((item) => (
             <SwiperSlide key={item.id}>
               <img src={item.image} alt="Picture of the author" />
             </SwiperSlide>
           ))}
         </Swiper>
-        <h2></h2>
       </div>
     </>
   );
