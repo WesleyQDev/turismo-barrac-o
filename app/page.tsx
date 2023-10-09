@@ -87,10 +87,11 @@ export default function Home() {
           desc="R. Nereu Ramos, 108 - Centro, Dionísio Cerqueira - SC"
           maps="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114505.77264962805!2d-53.639782!3d-26.25175!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b06c537c55f%3A0x259b8998d5aba9dd!2sRestaurante%20Casa%20Deodoro%C2%B4s!5e0!3m2!1spt-BR!2sus!4v1696718276091!5m2!1spt-BR!2sus"
         />
-        <h3>Los paleteros</h3>
-        <p>
-          O delivery de paletas mexicanas é uma opção prática para quem deseja
-          desfrutar dessas delícias sem sair de casa.
+        <h3 style={{ textAlign: "center" }}>Los paleteros</h3>
+        <p style={{ textAlign: "center" }}>
+          A LOS PALETEROS REVOLUCIONOU O BRASIL AO CRIAR AS FAMOSAS PALETAS
+          MEXICANAS! <br /> SOMOS A MAIOR E MELHOR MARCA DE PALETAS DO BRASIL, E
+          ESTAMOS SEMPRE RECHADOS DE BENEFÍCIOS PARA NOSSOS PARCEIROS!
         </p>
         <Card
           src="/los_paleteros"
