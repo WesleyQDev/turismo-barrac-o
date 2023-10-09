@@ -9,7 +9,7 @@ import "swiper/css/scrollbar";
 import Maps from "../components/maps";
 import { useState, useEffect } from "react";
 
-export default function HotelLF() {
+export default function TriZeroHora() {
   const [slidePerView, setSlidePerView] = useState(2);
   const data = [
     {
