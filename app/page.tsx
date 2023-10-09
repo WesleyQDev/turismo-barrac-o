@@ -113,12 +113,78 @@ export default function Home() {
         />
         <h3>Capela São José</h3>
         <p>
-          Segundo a Bíblia, São José foi o esposo de Maria e pai de Jesus. E
-          todos os anos somos convidados
+          BREVE HISTÓRICO DA LINHA SÃO JOSÉ Com grande alegria voltamos ao
+          passado através da “biografia” da comunidade lavrada no livro
+          histórico. Caso algum acontecimento, feito ou data, que não foram
+          mencionados, é devido à falta de documentos que comprovem tais fatos,
+          pois só foram encontrados na comunidade documentos datados a partir de
+          1982. História da comunidade católica de Pessegueiral, hoje chamada
+          Linha São José, município de Barracão, Paraná. A comunidade da Linha
+          São José iniciou sua formação a partir da chegada dos migrantes, na
+          sua grande maioria de cultura italiana, alemã e cabocla, oriundos de
+          cidades do Rio Grande do Sul que buscavam novas terras para suas
+          famílias se desenvolverem. Junto a sua mudança o migrante sempre leva
+          sua fé, por isso se tornou necessário, na nova terra, a edificação de
+          um local para as famílias rezarem. Segundo relatos não escritos, antes
+          da atual estrutura da igreja da comunidade, houve a construção de uma
+          pequena estrutura feita com costaneiras de pinheiro que as famílias se
+          encontravam no final de semana para a oração do terço. Mas, o espaço
+          precisou ser aumentado, pois não acomodava todos os membros da
+          sociedade que ali se iniciava e por isso se fez necessário a
+          construção de um templo maior. A estrutura atual da Capela São José
+          começou a ser construída na década de 1950 pela família Bruschi, sendo
+          que a partir do terreno doado por José Florêncio em conjunto com o
+          senhor Severino Bruschi foi possível ser construída a capela da
+          comunidade pelo carpinteiro Alcides Binato, com a ajuda das famílias
+          Bruschi, Silva, Duarte, Demark, Lioto, Roquenbak, Tesori, Lazzarin,
+          Radim, Spezzia, Clainabingui, Hahm, Colle, Staxachi, Tozatti,
+          Barrichello, Dombrosk, Peres, Limani, Vargas, Peretti e Palosc. No ano
+          de 1962 foi inaugurado na comunidade o cino, com sua estrutura feita
+          em madeira. Também nesse mesmo ano foram celebradas as primeiras
+          crismas, com a ilustre presença do primeiro bispo da diocese de
+          Palmas-Fco. Beltrão, Dom Carlos Eduardo Sabóia Bandeira de Melo. No
+          ano de 1966 foi construído o primeiro salão comunitário. Em 1978
+          aconteceu a primeira reforma na capela, na qual foram trocadas as
+          tábuas brutas de pinheiro por tábuas beneficiadas, onde trabalharam os
+          senhores Henrique Lazzarin e Juvelino Radim e também nesse ano foi
+          construído o pavilhão de alvenaria, que foi sendo melhorado
+          constantemente ao longo dos anos. Em 2003 foi construída a nova
+          estrutura do cino, sendo esta de ferro. E em 2005 foi realizada a
+          última reforma na capela, que retomou a cor externa, de azul marinho
+          para cor de laranja, cor esta de sua fundação. No ano de 2018, nos
+          dias de festejo de seu padroeiro São José, a comunidade comemorou com
+          grande festa os 60 anos da construção da capela, que para o município
+          de Barracão é tombada como Patrimônio Histórico desde a publicação da
+          Lei nº 009/92, de autoria na época do presidente em exercício, o
+          senhor Itamar de Souza, publicada no dia 30 de junho de 1992. Na
+          localidade da Linha São José, residem aproximadamente 60 famílias, das
+          quais 35% trabalham na cidade do município de Barracão em diversas
+          atividades do setor público e privado, e as demais desenvolvem
+          produtos e atividades que registram-se na Linha São José, como a
+          Fábrica de Massas e Bolachas da família Slaviero, a Agroindústria de
+          Melado e Derivados de Cana de Açúcar administrada pela família
+          Camargo, o Confinamento do Frigorífico São José da família Valiati,
+          além de inúmeros produtos das famílias de hortifrutigranjeiros e
+          avicultores, das famílias que trabalham com produção de leite e afins.
+          A comunidade ainda possuí um moinho de propriedade da família do
+          senhor Otávio Lazzarin, a marcenaria da família do senhor Vitório
+          Silva Dias Filho (vulgo Quito), o Bar e Mercearia da família do senhor
+          Alceu Silva Dias (vulgo Gaúcho), e a empresa de coleta de leite da
+          família do senhor Moacir L. Lazzarin (vulgo Pelé). Na localidade ainda
+          possuímos o Assentamento do Projeto Colméia, a Escola Municipal
+          Severino Bruschi, a Escola Estadual Padre Anchieta, o Posto de Saúde,
+          o Esporte Clube Aliança e o Grupo de Idosos. Por fim, com imensa
+          alegria digo que a comunidade da São José sempre está de portas
+          abertas para acolher a todos, sem distinção, e como foi por meio da fé
+          que se iniciou está história que todos nós aqui somos participantes, a
+          comunidade católica se reúne todos os domingos, às 9h da manhã, para a
+          Celebração da Palavra e atualmente sempre às 14h no primeiro sábado do
+          mês para a celebração da Santa Missa. REDAÇÃO: Flavio Junior Peretti
+          FONTE: livro histórico da comunidade.
         </p>
         <Card
           src="/capela_sao_jose"
-          img="https://lh3.googleusercontent.com/fife/AK0iWDybFlkMKqMtAg7fN8Wq610GomStRuOLQOeOcgmhmlgpTyEgCR8DYVWCsCi0nNz52f849VRzaTtoiQEgii16miyWmkTvra5JLIknJKUBirdZJReb9mARV8hRFzWmPOFPSGVQtLAZEwO-mxF39CJTHF3mKazltElN2hRCSHVPDhJ7PHuriNWKT5tQeiLJ2pDppE0Gp5FyJwBXp9nsI4h08k8ylJMCeQ1BkV5Dsm3eF4vq-5SR7BjzyQoJ8uVz2NaY8-68LBJXp0DN9qaoaxJsu6a3Aw5DZx-puQUn2NY-IFybzgxlaJqjd5EcZjzmtlAFKIa7T-IaptbhvHx6-2yYSS6on0H18ijHlPXBJ77d3WbNKm6RC97Mi0czTYA8ZgrjZRxw16tDgLaqDF2-N8dqJ6LalE2Oto4QStPtsc7YlVD6Z2D7cRS51TvEhYrjeLBWVZ0pFjPtTvygL8lUFu2oQn_FcvTxwXzqVqnPQTbvEYq2kyJpYR6FuMELB6ON1jCMBdpienGYFO7oe_-fFY--HRiuz-XiRnK_vh0TUJ6ZFHviGp_d2bAJ7Cb2tA19-5H9GCAdV4NsH7udClKiIGt_njolRZ_lwudXKfqCGzfzJzCKgFNnvwaO_fVuTlp3kuaAZwPpp6z8IIZx6mCe2i_3U9cSHifN0wgmwhKUs-TF82wlzbZ9VX7Qe6q09uaTEsWPTBm8zVUwJaMSHiTx9g0FaecPhm2_E5-tfVCOS17RqhLOmIrKI2BspUk7Qlwo3AsTrcri9tWI6G9bWfRIv7UmgpmA9y4q61Q_XhhYi3qD4GfEvXCZsdEclgmx3CPshf7WOpGv8iQm4np14yAWhIabDeF03Mc4-cUeCdO9nMTtVp6SgQ74L7mhc-gLpfjJtbfR1FlZeoDIcqdQOfYwG99fn3SnhrHEPXMpbnP0L6tufOpkQoXaCh8EAb9WBu6qPcfbnyKVD7Wsgroa-klPdud9mUVwcz4N9mN8yV9lu-TWFDI0wHVg_Gph0qxACbTfoyPf-4S4wIeBaUhcAZ0ubHUa285U0N8qX0gEXLS2Mf38HfwlBfjT2P8JMbMOVz7X77w8xZr5u2ifVWcCQU4TUSUlvwgpIWUaLNRe9b8ru6JgJSgEFOHdFHKBFETtFl3qd53OuexGq75tJw04ibRXwA_zpBCSoRoH271yB6fdPXl-kVkPcPboW2s_oxUc6I3B-Zpy7hux4IrW26nz8HSYEH6gYaRwHHcZOJWYO-ZTS8xFFQB7pm1-j7GczfVdRAKqQG4fHS-ToWt-js7B3BlVxYQScCYyoXOqX95I4rctu6ZmttqhqZNlERb-KYOeVfjHKp5LZRsv21ziHfaBVIqHo2TeZz5wvghW1o6jY_oxyI5_xwsTldCNfD9Jayv6KQfilAK4pU1qbf41jxpncLPDwMX97wygl47pApsoLogh8jUIkADUCdKYW_U91cUvs2rzJ8TQh_38stWjuz8nG_fldqqCJlSJeIaVL3kpUAwLKWRid80ehKoe0F_eyIki9vPbu9we4BfvJBgxOp-AboRXq8OV=w1366-h619"
+          img="https://lh3.googleusercontent.com/fife/AK0iWDwfNTLeGbYw6Pny_oyf4gjSLhhQ5N2R25wZhn2ah-qRGFvknHDUfl_nYS3g8vZicSfS5gLoiTSAPznCJVa_X7UP3Xtoqcj38sMtFi9RhgbGlEcNFmzg4TTfNF8hdjH7GokEPzIZIRkP3tuicuNCfeRzvyVBgnUDKQ3BHS2OZXj9_zAR0PyDJv8MtC5JP0wpWHNF4kAc2YYuhlLWCzP5YH_PPJiNxacRLUCZHvO_qGUDlzyS_GN1sqJVHkwTbRv-6JSMIG3z8BFDjlej82-jGs_2HALHeibhbTAxWJbt84ZlU1TQ0Lsx_Fsad1CSPKoYnY1ebCWrgGaWDCeYEXliI6GAnDVPVwxAbPclmRiE24c5LyU8skpO6tjQf5yh--2skgvF6GV4l9sIVvVvTZQJGWhmZCT-OeVbMhP8ZB_57hlnsy8EL89H9_W4NBrS6fJQ1aAoPGEAvf1c--fuQNMtI4fDUC7zZdNrWs8gqf-69LKhGiH8nxYNtrQ9G9kSCf6NsGEysIhyXwOwLmma96LV7R2DKJQS6DhdWeWRYrhJMxpsttmQiPQzITgnyuiJ7PakUB9M-2U0Y3vlE-MQqcgQvH_I8-4AqqEhJDJJ36q-Ki7P5l5d1Gb1SDU-tkhemyhsFBX48hhWuXej0yiniHB82cSbd3Xk4ez-u9XernBrpQpO0zqj8f0yyb6zJhukkgD6gnhO9Jlik12hPheP4BY5ejJyS9Zw7w3v_spJw6rS2w4H1nqbKmQeDUBpeWMJ_SyFJ6T8c7N4-B3_E4azaA61yQP-aFe75f077YqYQlHDhYVqP3xLgiA3ZYmD8JF4k76zczz-IQDxzqudrrEZLpguY59ersobPsB7upOh_qs2LQDCK4uh-30BH2jlGwuD_aOIssMPr0pOQ5w1VFxFJjAeu7Y9lUfhlKmm0qx14mOVaSMpiWxTIto2XWQeVcEd9B5uGdqkxIKBqKWeYa17kg8OEeiM0l99pFl_SLL-4K4KzAtSbHWydf2KKedRTSUnz_Xa2V-65bKVuiUp_aKynOqFn_2W8j8tc7BXdNtNGTTrd85eIrBDul43Zb9HpS7HPq-5jzXSc34R22kNkErPg_6f7wI8gUyZJFZ3dzYWCp8n1XjPiq7L_jSTbzzhg3xXhTzinOJZzw3y5h7qtiz2EzKS8R90VfUYpUm2KXWKCLW0FGTmMaltMkzU7hCV-eajqv_hro7y1XUcny1OUOkB3RYFGLj4H2jS-gnCUCMp5u3cWKYJ0iFvEV5DbbBNuRn-_LZJ3sL-4oSUWr0PPVhbAli89Bs9OOD8aMGs2vU1iM1lfkTgHSbKdwgrK8MWuWb3fYqo2JZmoNn_LrdGNrN2cTucn1hAhLpAmiliEV4MvzghDKm3sLENhPv6tMMoVqgLwEJKOXHxqQ7YVSb6yV_7AaT3hEEkIxnjXY6XO-fygZ1cQTEJyKw4HrXqKrjAh1ofFU-lkq4zyJRjIBnQWnxS5-EZGsF9XHTJrBRTuhSTF_ycCo7veWQ1gYbR1UhkXRj-v8hG6uUZK5A3Y1kLSkNIye2U758G_4yQabXS3Gvud7ERuds1r0TSmwk_g7l8rg=w1920-h937"
           nome="Capela São José"
           desc="Capela São José Barracão - PR"
           maps="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114526.61088786623!2d-53.582276!3d-26.2306!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09ac32626bb8b%3A0xcaf4b5110ebe5589!2zQ2FwZWxhIFPDo28gSm9zw6k!5e0!3m2!1spt-BR!2sus!4v1696720141749!5m2!1spt-BR!2sus"
