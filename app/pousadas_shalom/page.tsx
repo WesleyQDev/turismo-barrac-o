@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
-import Image from "next/image";
+import Maps from "../components/maps";
 import { useState, useEffect } from "react";
 export default function PousadasShalom() {
   const [slidePerView, setSlidePerView] = useState(2);
@@ -77,6 +77,8 @@ export default function PousadasShalom() {
             </SwiperSlide>
           ))}
         </Swiper>
+        <h3>Telefone: (49) 98889-2528</h3>
+        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114512.03167196561!2d-53.63402!3d-26.245399!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b545a87a039%3A0x70c5115e6a41d91e!2sHotel%20pousada%20Shalom!5e0!3m2!1spt-BR!2sus!4v1696703737973!5m2!1spt-BR!2su" />
       </div>
     </>
   );
