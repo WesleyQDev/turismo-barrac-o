@@ -88,7 +88,7 @@ export default function GrutaDeSantaEmiliaRodat() {
             </SwiperSlide>
           ))}
         </Swiper>
-        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114518.97595299575!2d-53.631444!3d-26.238351!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09a3efc00d4d1%3A0xa2639fd77d18404c!2sR.%20Quinze%2C%20357%20-%20Barrac%C3%A3o%2C%20PR%2C%2085700-000%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1696721969200!5m2!1spt-BR!2sus" />
+        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114523.63241922419!2d-53.451993!3d-26.233624000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f086c627c2e563%3A0xb4abed4b9d81f6c1!2sGruta%20de%20Santa%20Em%C3%ADlia%20de%20Rodat!5e0!3m2!1spt-BR!2sus!4v1696721104004!5m2!1spt-BR!2sus" />
       </div>
     </>
   );

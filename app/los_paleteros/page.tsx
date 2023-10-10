@@ -27,10 +27,6 @@ export default function LosPaleteros() {
       image:
         "https://lh3.google.com/u/1/d/1C1fnSPeS6EQ7Cb1ds1XIFN8HWnsO_Sxk=w1365-h880-iv1",
     },
-    {
-      id: "4",
-      image: "",
-    },
   ];
 
   useEffect(() => {
@@ -68,7 +64,7 @@ export default function LosPaleteros() {
           ))}
         </Swiper>
         <h3>Telefone: (49) 99953-6683</h3>
-        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114512.03167196561!2d-53.63402!3d-26.245399!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b545a87a039%3A0x70c5115e6a41d91e!2sHotel%20pousada%20Shalom!5e0!3m2!1spt-BR!2sus!4v1696703737973!5m2!1spt-BR!2su" />
+        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114499.91543006981!2d-53.60970700000001!3d-26.257692000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09bca742287b5%3A0xcfd952b7ce5dcff7!2sLos%20Paleteros!5e0!3m2!1spt-BR!2sus!4v1696719027468!5m2!1spt-BR!2sus" />
       </div>
     </>
   );

@@ -9,7 +9,7 @@ import "swiper/css/scrollbar";
 import Maps from "../components/maps";
 import { useState, useEffect } from "react";
 
-export default function HotelLF() {
+export default function LibertyDutyFree() {
   const [slidePerView, setSlidePerView] = useState(2);
   const data = [
     {
@@ -62,14 +62,14 @@ export default function HotelLF() {
             <SwiperSlide key={item.id}>
               <img
                 src={item.image}
-                alt="Pousadas Shalom"
+                alt="Liberty Duty Free"
                 className="slide-item"
               />
             </SwiperSlide>
           ))}
         </Swiper>
         <h3>Telefone:</h3>
-        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114512.03167196561!2d-53.63402!3d-26.245399!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b545a87a039%3A0x70c5115e6a41d91e!2sHotel%20pousada%20Shalom!5e0!3m2!1spt-BR!2sus!4v1696703737973!5m2!1spt-BR!2su" />
+        <Maps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3578.29793018361!2d-53.63774232548743!3d-26.251992365920355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b0983358eb5%3A0x98d6e1d4be5a525!2sLiberty%20Duty%20Free!5e0!3m2!1spt-BR!2sbr!4v1696710114490!5m2!1spt-BR!2sbr" />
       </div>
     </>
   );

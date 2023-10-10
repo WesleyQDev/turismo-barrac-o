@@ -47,7 +47,7 @@ export default function TriZeroHora() {
   return (
     <>
       <div className="conteudo">
-        <h2>Liberty Duty Free</h2>
+        <h2>Mercado Tri Zerohora</h2>
         <Swiper
           slidesPerView={slidePerView}
           pagination={{ clickable: true }}
@@ -57,7 +57,7 @@ export default function TriZeroHora() {
             <SwiperSlide key={item.id}>
               <img
                 src={item.image}
-                alt="Pousadas Shalom"
+                alt="Mercado Tri Zerohora"
                 className="slide-item"
               />
             </SwiperSlide>

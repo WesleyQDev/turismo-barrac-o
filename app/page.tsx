@@ -16,9 +16,8 @@ export default function Home() {
         <Maps url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3578.2881473403963!2d-53.63732782458313!3d-26.252309977047062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09a34679f895d%3A0xd99cfe554f595799!2sPrefeitura%20Municipal%20de%20Barrac%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1696619216833!5m2!1spt-BR!2sbr" />
         <h3>Hotel LF</h3>
         <p>
-          O Hotel LF, disponibiliza café da manha entre outros serviços, também
-          possuem mais de 400 comentários no Google Maps com uma avaliação de
-          4/5.
+          O Hotel LF oferece café da manhã e outros serviços, além de ter mais
+          de 400 comentários no Google Maps com uma avaliação de 4/5.
         </p>
         <Card
           src="/hotellf"
@@ -29,8 +28,8 @@ export default function Home() {
         />
         <h3>Pousadas Shalom</h3>
         <p>
-          O hotel Pousada Shalom foi construida em 2020 e vem se fixando no ramo
-          de hospedarias desde então.
+          A Pousada Shalom foi construída em 2020 e tem se estabelecido no ramo
+          de hospedagem desde então.
         </p>
         <Card
           src="/pousadas_shalom"
@@ -41,17 +40,17 @@ export default function Home() {
         />
         <h2>2 - Comércio</h2>
         <p>
-          Após escolher a hospedagem, é importante saber onde fica as principais
-          lojas de conveniencia e restaurantes da região, te mostraremos alguns
-          e suas vantagens.
+          Após escolher a hospedagem, é importante saber onde ficam as
+          principais lojas de conveniência e restaurantes da região. Vou te
+          mostrar alguns e suas vantagens.
         </p>
         <h3>Liberty Duty Free</h3>
         <p>
-          O Liberty Duty Free, mais conhecido como “Shopping Duty Free”, como
-          gostamos de dizer aqui na nossa cidade, é um mercado cuja localização
-          de fácil aceso, ao lado da Prefeitura, o qual vem crescendo e
-          conquistando o mercado, principalmente por ter produtos importados sem
-          cobrar impostos o que deixa os preços bem acessíveis.
+          O Liberty Duty Free, também conhecido como "Shopping Duty Free", é um
+          mercado localizado ao lado da Prefeitura, de fácil acesso, que vem
+          crescendo e conquistando o mercado. Ele se destaca por oferecer
+          produtos importados sem cobrar impostos, o que deixa os preços
+          bastante acessíveis.
         </p>
         <Card
           src="/liberty_duty_free"
@@ -62,9 +61,9 @@ export default function Home() {
         />
         <h3>Mercado Tri Zerohora</h3>
         <p>
-          O mercado começou no começo de 2023, com atendimento até meia noite e
-          localiza-se no centro, perto da Prefeitura, sem duvida uma excelente
-          opção caso esteja buscando um mercado que esteja aberto grande parte
+          O mercado foi inaugurado no início de 2023 e possui atendimento até
+          meia-noite. Localiza-se no centro, próximo à Prefeitura, sendo uma
+          excelente opção caso esteja buscando um mercado aberto a maior parte
           do tempo.
         </p>
         <Card
@@ -76,8 +75,8 @@ export default function Home() {
         />
         <h3>Restaurante Casa Deodoro´s</h3>
         <p>
-          O restaurante vem se fixando no mercado, com um cardapio amplo,
-          ganhando inclusive certificados de qualidade no serviço e atendimento
+          O restaurante tem se consolidado no mercado, oferecendo um cardápio
+          amplo e recebendo certificados de qualidade pelo serviço e atendimento
           ao cliente.
         </p>
         <Card
@@ -102,7 +101,7 @@ export default function Home() {
         />
         <h2>3 - Pontos turísticos</h2>
         <p>
-          Nesta cesão veremos os principais pontos turisticos da nossa cidade.
+          Nesta seção, veremos os principais pontos turísticos da nossa cidade.
         </p>
         <h3>Marco da Tri-Fronteira</h3>
         <Card

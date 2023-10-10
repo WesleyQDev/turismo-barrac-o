@@ -65,16 +65,12 @@ export default function HotelLF() {
         >
           {data.map((item) => (
             <SwiperSlide key={item.id}>
-              <img
-                src={item.image}
-                alt="Pousadas Shalom"
-                className="slide-item"
-              />
+              <img src={item.image} alt="Hotel LF" className="slide-item" />
             </SwiperSlide>
           ))}
         </Swiper>
         <h3>Telefone: (49) 99953-6683</h3>
-        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114512.03167196561!2d-53.63402!3d-26.245399!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09b545a87a039%3A0x70c5115e6a41d91e!2sHotel%20pousada%20Shalom!5e0!3m2!1spt-BR!2sus!4v1696703737973!5m2!1spt-BR!2su" />
+        <Maps url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114504.32669527014!2d-53.63402!3d-26.253217!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f09a33bd0e1f09%3A0x47544b3811cc1312!2sHotel%20LF!5e0!3m2!1spt-BR!2sbr!4v1696703558456!5m2!1spt-BR!2sbr" />
       </div>
     </>
   );
