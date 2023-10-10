@@ -46,7 +46,7 @@ export default function Home() {
         </p>
         <h3>Liberty Duty Free</h3>
         <p>
-          O Liberty Duty Free, também conhecido como "Shopping Duty Free", é um
+          O Liberty Duty Free, também conhecido como Shopping Duty Free, é um
           mercado localizado ao lado da Prefeitura, de fácil acesso, que vem
           crescendo e conquistando o mercado. Ele se destaca por oferecer
           produtos importados sem cobrar impostos, o que deixa os preços
