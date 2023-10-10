@@ -9,8 +9,8 @@ export default function Banner() {
               Prefeitura de Barracão
             </h1>
             <p className="mb-8 text-lg font-normal text-white lg:text-xl sm:px-16 lg:px-48">
-              Secretaria de industria comercio e turismo <br />
-              Whats: (49)36442024
+              Secretaria de Indústria, Comércio e Turismo <br />
+              WhatsApp (49)36442024
             </p>
             <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"></div>
           </div>
